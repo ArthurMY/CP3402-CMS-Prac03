@@ -30,7 +30,7 @@ The purpose of the WordPress is to building a frame as a preparetation for assig
 
 
 ## Learning Journey for Practical 3
-## Learning Activities & Resources
+### Learning Activities & Resources
 For the Practical 3, I study how to use WordPress from 0 to 1.
 Here is the link that i use for study it.
 * [How To Create Tabs In WordPress Without Plugin 2022 ](https://youtu.be/nnewVWP6e4c?si=r4WMgvye31o4FVvP)
