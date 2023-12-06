@@ -28,3 +28,20 @@ The purpose of the WordPress is to building a frame as a preparetation for assig
   * Regularly review website analytics to track customer engagement and adjust strategies if necessary to meet the set goals.
  
 
+
+## Learning Journey for Practical 3
+## Learning Activities & Resources
+For the Practical 3, I study how to use WordPress from 0 to 1.
+Here is the link that i use for study it.
+* [How To Create Tabs In WordPress Without Plugin 2022 ](https://youtu.be/nnewVWP6e4c?si=r4WMgvye31o4FVvP)
+
+### Estimated hours
+I spent 3 hours on this Prac. 
+Compare to Joomla, WordPress is more easy to edit and customise all the contents and form for the site.
+
+### Learning Insights
+I learn about how to set up the frame for pages.
+* [How to change the WordPress theme layout?](https://youtu.be/kX9Vk3wAdZ8?si=T3z1XiqAcbwqpPnJ)
+* [How to create page layouts in WordPress](https://youtu.be/zHjeBb9obrM?si=V6-iH171NtkF1rZp)
+
+These videos makes me know how does wordpress layout function and how easy to use the WordPress to build website.
